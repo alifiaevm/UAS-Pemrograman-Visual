@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UASPV", "UASPV\UASPV.vbproj", "{5D077512-D09E-4DEF-83A6-5421699B2F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D077512-D09E-4DEF-83A6-5421699B2F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D077512-D09E-4DEF-83A6-5421699B2F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D077512-D09E-4DEF-83A6-5421699B2F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D077512-D09E-4DEF-83A6-5421699B2F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14D3AAF-F6B8-45F6-925F-7223DB612761}
+	EndGlobalSection
+EndGlobal
